@@ -178,6 +178,14 @@ finance-analytics-platform/
 
 ---
 
+## Solution Architecture
+
+The diagram below illustrates the end-to-end architecture covering data ingestion, SQL Server staging and warehouse layers, Power BI dashboards, Microsoft Fabric cloud pipeline, and Power Automate alerting.
+
+![Solution Architecture](documentation/architecture/Revenue_Reconciliation.png)
+
+---
+
 ## Author
 
 **Thiago Bernardo**
